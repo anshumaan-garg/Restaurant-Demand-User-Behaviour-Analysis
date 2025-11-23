@@ -58,8 +58,8 @@ This project helps the platform:
 
 | Folder / File            | Description                                           |
 |--------------------------|-------------------------------------------------------|
-| `data/`                  | Raw and cleaned datasets in CSV format               |
-| `notebooks/`             | Jupyter notebooks for analysis                       |
+| `foodhub_orders.csv/`                  | Raw and cleaned datasets in CSV format               |
+| `SolutionNotebook`             | Jupyter notebooks for analysis                       |
 | `SolutionNotebook.html`  | HTML file showcasing visuals and analysis steps      |
 | `README.md`              | Project documentation                                |
 
